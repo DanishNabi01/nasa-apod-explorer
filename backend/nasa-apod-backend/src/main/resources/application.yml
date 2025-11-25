@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+nasa:
+  api:
+    key: "zMCkWDZJ5NROCeCijbARg7Nxf3oQSk2ssmHizfWC"
+spring:
+  config:
+    import=optional:classpath:application-local:
+      properties:
