@@ -1,7 +1,7 @@
 
 ---
 
-### ✅ **Final README (copy–paste exactly)**
+### ✅ **Final README 
 
 ````markdown
 # 🚀 NASA APOD Explorer
